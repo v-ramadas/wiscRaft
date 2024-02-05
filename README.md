@@ -1,2 +1,3 @@
-# wisc_raft
-Raft implementation as part of CS739 project
+# wiscRaft
+
+An implementation of the Raft consensus protocol for a small three node server system.
